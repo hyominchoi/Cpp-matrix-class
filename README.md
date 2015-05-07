@@ -1,4 +1,4 @@
 # For Fun
-This is my repository for mucking around.
+This is my repository.
 
-I WILL BE AWESOME EVERYDAY.
+I AM HAPPY.

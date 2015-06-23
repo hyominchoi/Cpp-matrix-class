@@ -1,7 +1,6 @@
 //
 //  main.cpp
-//  toyota
-//
+//  Could Points -- Iterative Closest Points
 //  Created by Hyomin Choi on 4/5/15.
 //  Copyright (c) 2015 Hyomin Choi. All rights reserved.
 //
